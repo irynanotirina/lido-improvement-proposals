@@ -284,7 +284,7 @@ The main update introduces support in the **Staking Router** for a new interface
 
 #### 4.6 IStakingModule
 
-IStakingModule is updated with new methods required to fully support TW. New interface and methods description can be found below:
+StakingModule is updated with new methods required to fully support TW. New interface and methods description can be found below:
 
 ```solidity
 /// @notice Handles tracking and penalization logic for a validator that remains active beyond its eligible exit window.
