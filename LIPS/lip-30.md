@@ -282,7 +282,7 @@ The main update introduces support in the **Staking Router** for a new interface
 - One for reporting **late validators**;
 - One for reporting all **triggerable withdrawal requests** that have been executed for validators managed by the module.
 
-#### 4.6 IStakingModule
+#### 4.6 StakingModule
 
 IStakingModule is updated with new methods required to fully support TW. New interface and methods description can be found below:
 
